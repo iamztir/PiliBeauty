@@ -1,0 +1,977 @@
+/********************Media-Queries************************************************************/
+
+@media (min-width: 1024px) {
+	.desktop-wrapper {
+		width: 1024px;
+	}
+	
+li#mega-menu-item-34 > ul.mega-sub-menu{width: 180px !important; margin-left: 50% !important;}
+
+li#mega-menu-item-37 > ul.mega-sub-menu{width: 374px !important; margin-left: 46% !important;}
+
+li#mega-menu-item-280 > ul.mega-sub-menu{width: 472px !important; margin-left:54% !important;}
+	
+.woocommerce form .form-row .input-checkbox{margin: 8px 4px !important;}
+
+.woocommerce #payment .terms, .woocommerce-page #payment .terms {text-align: left !important; margin: 5px 0;}
+}
+
+@media screen and (min-width: 1025px) {
+
+.footer-list{display: block !important;}
+
+	.avp-video {
+  background-image: url('../images/pili_avp.png');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  height: 350px;
+  padding: 100px;
+}
+textarea.message{
+	width: 100%;
+	height: 231px;
+	margin-bottom:17px;
+}
+.message-us {
+  width: 100%;
+}
+.product-item .border-right {
+	background-image: url('../images/vertical.jpg');
+	background-repeat: no-repeat;
+	width: 1px;
+	height: 80%;
+	position: absolute;
+	right: 0;
+	top: 10%;
+}
+
+.product-item .border-bottom {
+	background-image: url('../images/horizontal.jpg');
+	background-repeat: no-repeat;
+	width: 80%;
+	height: 1px;
+	position: absolute;
+	bottom: 0;
+	left: 10%;
+}
+
+	.watch {
+  background-image: url('../images/watch.png');
+  background-repeat: no-repeat;
+  width: 79px;
+  height: 101px;
+  margin: 0 auto;
+}
+	.pili_leaves {
+	  background-image: url('../images/pili_leaves.png');
+	  background-repeat: no-repeat;
+	  width: 315px;
+	  height: 424px;
+	  float: left;
+	  margin: -5% -8%;
+	  position: absolute;
+	  z-index: 100;
+	}
+	.info{  
+		width: 55%;
+		float: right;
+		margin: 7% 4%;
+	}
+	.featured-product .carousel-control{
+		background: none;
+		margin-left: -100px;
+		margin-right: -100px;
+	}
+	.navbar-right > li > a {
+	  font-family: 'cantarellregular';
+	  font-size: 16px;
+	  color: #000000;
+	  margin: 0 10px;
+	}
+	.info-box {
+	  background: url('../images/bg_grayish-orange.png');
+	  background-repeat: repeat;
+	  height: 350px;
+	  position: relative;
+	  margin-right: 15px;
+	}
+
+}
+
+@media screen and (max-width: 1024px) {
+	.avp-video {
+  background-image: url('../images/pili_avp.png');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  height: 350px;
+  padding: 100px;
+}
+textarea.message{
+	width: 100%;
+	height: 231px;
+	margin-bottom:17px;
+}
+.message-us {
+  width: 100%;
+}
+.product-item .border-right {
+	background-image: url('../images/vertical.jpg');
+	background-repeat: no-repeat;
+	width: 1px;
+	height: 80%;
+	position: absolute;
+	right: 0;
+	top: 10%;
+}
+
+.product-item .border-bottom {
+	background-image: url('../images/horizontal.jpg');
+	background-repeat: no-repeat;
+	width: 80%;
+	height: 1px;
+	position: absolute;
+	bottom: 0;
+	left: 10%;
+}
+	.watch {
+  background-image: url('../images/watch.png');
+  background-repeat: no-repeat;
+  width: 79px;
+  height: 101px;
+  margin: 0 auto;
+}
+	.pili_leaves {
+	  background-image: url('../images/pili_leaves.png');
+	  background-repeat: no-repeat;
+	  width: 315px;
+	  height: 424px;
+	  float: left;
+	  margin: -5% -8%;
+	  position: absolute;
+	  z-index: 100;
+	}
+.info{  
+	width: 55%;
+	float: right;
+	margin: 7% 4%;
+}
+.info-box {
+  background: url('../images/bg_grayish-orange.png');
+  background-repeat: repeat;
+  height: 333px;
+  position: relative;
+  margin-right: 15px;
+}
+
+.navbar-right > li > a {
+	  font-family: 'cantarellregular';
+	  font-size: 16px;
+	  color: #000000;
+	  margin: 0 10px;
+	}
+.footer_01, .footer_02{display: none ;}
+
+.featured-product .carousel-control {
+	background: none;
+	margin-left: -20px;
+	margin-right: -20px;
+}
+/*.info-box{margin-right:0px;}*/
+
+.footer{border-bottom: 1px solid #e7e5c6;   padding: 20px 20px 20px 5px;}
+ul.footer-list{
+	display: none;
+}
+
+.footer-name .arrow{
+	background-image: url('../images/down.png');
+	background-repeat: no-repeat;
+	width: 23px;
+	height: 8px;
+	display: inline-block;
+	float: right;
+	margin-top: 10px;
+}
+
+.footer-name.active .arrow{
+	background-image: url('../images/up.png');
+	background-repeat: no-repeat;
+}
+  .footer-body{ height: 256px !important; margin: 40px 0 40px 0; }
+  
+}
+
+@media screen and (max-width: 1024px) and (orientation: portrait){
+	.avp-video {
+  background-image: url('../images/pili_avp.png');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  height: 350px;
+  padding: 100px;
+}
+textarea.message{
+	width: 100%;
+	height: 231px;
+	margin-bottom:17px;
+}
+.message-us {
+  width: 100%;
+}
+.product-item .border-right {
+	background-image: url('../images/vertical.jpg');
+	background-repeat: no-repeat;
+	width: 1px;
+	height: 80%;
+	position: absolute;
+	right: 0;
+	top: 10%;
+}
+
+.product-item .border-bottom {
+	background-image: url('../images/horizontal.jpg');
+	background-repeat: no-repeat;
+	width: 80%;
+	height: 1px;
+	position: absolute;
+	bottom: 0;
+	left: 10%;
+}
+	.watch {
+  background-image: url('../images/watch.png');
+  background-repeat: no-repeat;
+  width: 79px;
+  height: 101px;
+  margin: 0 auto;
+}
+	.pili_leaves {
+	  background-image: url('../images/pili_leaves.png');
+	  background-repeat: no-repeat;
+	  width: 315px;
+	  height: 424px;
+	  float: left;
+	  margin: -5% -8%;
+	  position: absolute;
+	  z-index: 100;
+	}
+	.info{  
+		width: 55%;
+		float: right;
+		margin: 7% 4%;
+	}
+.info-box {
+  background: url('../images/bg_grayish-orange.png');
+  background-repeat: repeat;
+  height: 333px;
+  position: relative;
+  margin-right: 15px;
+}
+.navbar-right > li > a {
+	  font-family: 'cantarellregular';
+	  font-size: 16px;
+	  color: #000000;
+	  margin: 0 10px;
+	}
+.footer_01, .footer_02{display: none ;}
+
+.featured-product .carousel-control {
+	background: none;
+	margin-left: -20px;
+	margin-right: -20px;
+}
+.info-box{margin-right:0px;}
+
+.footer{border-bottom: 1px solid #e7e5c6; padding: 20px 20px 20px 5px;}
+ul.footer-list{
+	display: none;
+}
+
+ .footer-body{ height: 256px !important; margin: 40px 0 40px 0; }
+
+.woocommerce #payment .terms, .woocommerce-page #payment .terms {text-align: left !important; margin: 5px 0;}
+}
+
+@media screen and (max-width: 1023px){
+li#mega-menu-item-34 > ul.mega-sub-menu{width: 180px !important; margin-left: 35% !important;}
+
+li#mega-menu-item-37 > ul.mega-sub-menu{width: 374px !important; margin-left: 30% !important;}
+
+li#mega-menu-item-280 > ul.mega-sub-menu{width: 472px !important; margin-left:34% !important;}
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 800px){
+	.product {
+		  width: 24.333%;
+	}
+	textarea.message{
+	width: 100%;
+	height: 231px;
+	margin-bottom:17px;
+}
+.message-us {
+  width: 100%;
+}
+	.product-item .border-right {
+	background-image: url('../images/vertical.jpg');
+	background-repeat: no-repeat;
+	width: 1px;
+	height: 80%;
+	position: absolute;
+	right: 0;
+	top: 10%;
+}
+
+.product-item .border-bottom {
+	background-image: url('../images/horizontal.jpg');
+	background-repeat: no-repeat;
+	width: 80%;
+	height: 1px;
+	position: absolute;
+	bottom: 0;
+	left: 10%;
+}
+	.avp-video {
+  background-image: url('../images/pili_avp.png');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  height: 350px;
+  padding: 100px;
+}
+	.watch {
+  background-image: url('../images/watch.png');
+  background-repeat: no-repeat;
+  width: 79px;
+  height: 101px;
+  margin: 0 auto;
+}
+	.pili_leaves {
+	  background-image: url('../images/pili_leaves.png');
+	  background-repeat: no-repeat;
+	  width: 315px;
+	  height: 424px;
+	  float: left;
+	  margin: -5% -8%;
+	  position: absolute;
+	  z-index: 100;
+	}
+	.info{  
+		width: 55%;
+		float: right;
+	}
+.nav > li > a {
+	color: #000000;
+	border-bottom: 1px solid #e7e5c6;
+	padding: 20px 20px 20px 5px;
+	margin: 0px 30px 0 30px;
+}
+
+.featured-product .carousel-control{
+		  background: none;
+  margin-left: -20px;
+  margin-right: -20px;
+	}
+	.info-box {
+	  background: url('../images/bg_grayish-orange.png');
+	  background-repeat: repeat;
+	  height: 350px;
+	  position: relative;
+	  margin-right: 0px;
+	  margin-bottom: 20px;
+	}
+	
+}
+
+
+@media screen and (max-width: 768px){
+li#menu-item-37.arrow {
+  background-image: url('../images/down.png');
+  background-repeat: no-repeat;
+  width: 23px;
+  height: 8px;
+  display: inline-block;
+  float: right;
+}
+.mega-calculator-menu-header {
+    display: none !important;
+}
+
+li#menu-item-280{display:none;}
+
+table#your-order tbody td:first-child {width: 18% !important}	
+
+.woocommerce form .form-row .input-checkbox{margin: 8px 4px !important;}
+
+table#your-order thead td:first-child{width:20% !important;}
+table#your-order thead td{width: 50% !important;}
+
+}
+
+
+@media screen and (min-width: 641px) and (max-width: 767px){
+	.avp-video {
+  background-image: url('../images/pili_avp.png');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  height: 350px;
+  padding: 100px;
+}
+textarea.message{
+	width: 100%;
+	height: 231px;
+	margin-bottom:17px;
+}
+.message-us {
+  width: 100%;
+}
+.product-item .border-right {
+	background-image: url('../images/vertical.jpg');
+	background-repeat: no-repeat;
+	width: 1px;
+	height: 80%;
+	position: absolute;
+	right: 0;
+	top: 10%;
+}
+
+.product-item .border-bottom {
+	background-image: url('../images/horizontal.jpg');
+	background-repeat: no-repeat;
+	width: 80%;
+	height: 1px;
+	position: absolute;
+	bottom: 0;
+	left: 10%;
+}
+	.watch {
+  background-image: url('../images/watch.png');
+  background-repeat: no-repeat;
+  width: 79px;
+  height: 101px;
+  margin: 0 auto;
+}
+	.pili_leaves {
+	  background-image: url('../images/pili_leaves.png');
+	  background-repeat: no-repeat;
+	  width: 315px;
+	  height: 424px;
+	  float: left;
+	  margin: -5% -8%;
+	  position: absolute;
+	  z-index: 100;
+	}
+.header_bg{left: 65%;}
+.pili_leaves {margin: -5% 30%;}
+.info{margin: 7% 20% ;}
+.info-box {
+  background: url('../images/bg_grayish-orange.png');
+  background-repeat: repeat;
+  height: 650px;
+  position: relative;
+  margin-right: 0px;
+    margin-bottom: 35px;
+}
+
+.featured-product .carousel-control{
+		background: none;
+		margin-left: -20px;
+		margin-right: -20px;
+	}
+	.nav > li > a {
+	color: #ffffff;
+	border-bottom: 1px solid #e7e5c6;
+	padding: 20px 20px 20px 5px;
+	margin: 0px 30px 0 30px;
+}
+.info{  padding-top: 340px;}
+
+}
+
+@media screen and (max-width: 640px){
+.product-paddingleft{padding-left: 15px !important;}
+
+.mobile-carousel {
+  margin-top: 83px;
+}
+
+.copyright-body {height: 160px !important;}
+	.social-networking{float: none !important;}
+	.terms-policy, .copyright-name, .networking-sites{float: none !important; margin: 0!important; text-align:center; padding: 10px 0;}
+
+}
+
+
+
+@media (min-width: 481px) and (max-width: 767px) {
+	.sidebar-product {
+		display: none;
+	}
+	#about-sidebar-menu-toggle {
+		display: block;
+	}
+	#about-sidebar-menu-toggle .arrow-up-down {
+		display: block;
+	}
+}
+
+
+@media screen and (min-width: 481px) and (max-width: 640px){
+	.product-item .border-right {
+	background-image: url('../images/vertical.jpg');
+	background-repeat: no-repeat;
+	width: 1px;
+	height: 80%;
+	position: absolute;
+	right: 0;
+	top: 10%;
+}
+
+textarea.message{
+	width: 100%;
+	height: 231px;
+	margin-bottom:17px;
+}
+.message-us {
+  width: 100%;
+}
+.product-item .border-bottom {
+	background-image: url('../images/horizontal.jpg');
+	background-repeat: no-repeat;
+	width: 80%;
+	height: 1px;
+	position: absolute;
+	bottom: 0;
+	left: 10%;
+}
+	.avp-video {
+  background-image: url('../images/pili_avp.png');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  height: 350px;
+  padding: 100px;
+}
+	.watch {
+  background-image: url('../images/watch.png');
+  background-repeat: no-repeat;
+  width: 79px;
+  height: 101px;
+  margin: 0 auto;
+}
+	
+	.header_bg{left: 60%;}
+	.pili_leaves {margin: -5% 12%;}
+	
+	.pili_leaves {
+	  background-image: url('../images/pili_leaves.png');
+	  background-repeat: no-repeat;
+	  width: 315px;
+	  height: 424px;
+	  float: left;
+	  margin: -5% -8%;
+	  position: absolute;
+	  z-index: 100;
+	}
+	.info {  width: 42%;
+  float: right;
+    margin: 3% 10%;}
+	.info-box {
+  background: url('../images/bg_grayish-orange.png');
+  background-repeat: repeat;
+  height: 350px;
+  position: relative;
+  margin-right: 0px;
+  margin-bottom: 30px;
+}
+
+.featured-product .carousel-control{
+		  background: none;
+  margin-left: -20px;
+  margin-right: -20px;
+	}
+	.nav > li > a {
+	color: #ffffff;
+	border-bottom: 1px solid #e7e5c6;
+	padding: 20px 20px 20px 5px;
+	margin: 0px 30px 0 30px;
+}
+
+p.content{ padding: 20px 0px 20px 0px !important;}
+
+}
+
+@media (max-width: 480px) {
+	.top-banner {
+		height: 200px;
+		background-size: auto 100%;
+	}
+	.sidebar-product {
+		display: none;
+	}
+	.about-box {
+		display: none;
+	}
+	#about-sidebar-menu-toggle {
+		display: block;
+	}
+	#about-sidebar-menu-toggle .arrow-up-down {
+		display: block;
+	}
+	.no-padding {
+		padding: 2% !important;
+	}
+	
+}
+
+
+
+@media screen and (min-width: 321px) and (max-width: 480px){
+textarea.message{
+	width: 100%;
+	height: 231px;
+	margin-bottom:17px;
+}
+.message-us {
+  width: 100%;
+}
+	.avp-video {
+  background-image: url('../images/pili_avp.png');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  height: 350px;
+  padding: 100px;
+}
+	.watch {
+  background-image: url('../images/watch.png');
+  background-repeat: no-repeat;
+  width: 79px;
+  height: 101px;
+  margin: 0 auto;
+}
+	.pili_leaves {
+	  background-image: url('../images/pili_leaves.png');
+	  background-repeat: no-repeat;
+	  width: 315px;
+	  height: 424px;
+	  float: left;
+	  margin: -5% -8%;
+	  position: absolute;
+	  z-index: 100;
+	}
+	
+	.header_bg{left: 45%;}
+	.info {width: 80%;float: right; margin: 7% 10%; }
+	.pili_leaves {margin: -5% 15%;}
+	.logo_1 {
+		width: 80%;
+	}
+.info-box {
+   background: url('../images/bg_grayish-orange.png');
+  background-repeat: repeat;
+  height: auto;
+  position: relative;
+  margin-right: 0px;
+  overflow: auto;
+ margin-bottom: 20px;
+}
+
+.info{padding-top: 380px;}
+.featured-product .carousel-control{
+		  background: none;
+  margin-left: -20px;
+  margin-right: -20px;
+	}
+	.nav > li > a {
+	color: #ffffff;
+	border-bottom: 1px solid #e7e5c6;
+	padding: 20px 20px 20px 0;
+	margin: 0px 30px 0 30px;
+}
+
+.product-item .border-right {
+	background-image: none;
+	background-repeat: no-repeat;
+	width: 1px;
+	height: 80%;
+	position: absolute;
+	right: 0;
+	top: 10%;
+}
+
+.product-item .border-bottom {
+	background-image: none;
+	background-repeat: no-repeat;
+	width: 80%;
+	height: 1px;
+	position: absolute;
+	bottom: 0;
+	left: 10%;
+}
+.single-product #primary {
+	padding-left: 0 !important;
+}
+}
+
+
+
+@media screen and (max-width: 320px){
+
+textarea.message{
+	width: 100%;
+	height: 231px;
+	margin-bottom:17px;
+}
+.message-us {
+  width: 100%;
+}
+	.product-item .border-right {
+	background-image: none;
+	background-repeat: no-repeat;
+	width: 1px;
+	height: 80%;
+	position: absolute;
+	right: 0;
+	top: 10%;
+}
+.mobile-no-padding {
+	padding: 0;
+}
+.product-item .border-bottom {
+	background-image: none;
+	background-repeat: no-repeat;
+	width: 80%;
+	height: 1px;
+	position: absolute;
+	bottom: 0;
+	left: 10%;
+}
+	.avp-video {
+  background-image: url('../images/pili_avp.png');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  height: 350px;
+  padding: 100px;
+}
+	.watch {
+  background-image: url('../images/watch.png');
+  background-repeat: no-repeat;
+  width: 79px;
+  height: 101px;
+  margin: 0 auto;
+}
+	.pili_leaves {
+	  background-image: url('../images/pili_leaves.png');
+	  background-repeat: no-repeat;
+	  width: 315px;
+	  height: 424px;
+	  float: left;
+	  margin: -5% -8%;
+	  position: absolute;
+	  z-index: 100;
+	}
+	.pili_leaves {
+		margin: -5% -7%;
+	}
+
+	.logo_1 {
+		width: 80%;
+	}
+	.info {
+		width: 80%;float: right; margin: 7% 10%;
+	}
+
+.info{padding-top: 380px;}
+	.info-box {
+    background: url('../images/bg_grayish-orange.png');
+  background-repeat: repeat;
+  height: auto;
+  position: relative;
+  margin-right: 0px;
+  overflow: auto;
+ margin-bottom: 20px;
+}
+.featured-product .carousel-control{
+		  background: none;
+  margin-left: -20px;
+  margin-right: -20px;
+	}
+	.nav > li > a {
+	color: #ffffff;
+	border-bottom: 1px solid #e7e5c6;
+	padding: 20px 20px 20px 5px;
+	margin: 0px 30px 0 30px;
+}
+.single-product #primary {
+	padding-left: 0 !important;
+}
+
+.woocommerce form .form-row .input-checkbox {
+    float: left;
+    margin: -22px -4px !important;
+}
+.cart-button {
+    padding: 8px 10px !important;
+	float:left !important;
+}
+.discount-body{height: 95px !important;}
+
+.woocommerce #payment .terms, .woocommerce-page #payment .terms, .checkout-product-quantity{text-align: center !important;}
+
+}
+
+@media (max-width: 480px) {
+	.top-banner {
+		height: 200px;
+		background-size: auto 100%;
+	}
+	.sidebar-product {
+		display: none;
+	}
+	.about-box {
+		display: none;
+	}
+	#about-sidebar-menu-toggle {
+		background-color: #f0ece5;
+		margin-top: 15px;
+		padding: 10px 15px;
+		font-family: cantarellregular;
+		cursor: pointer;
+		display: block;
+		margin-left: 2%;f
+		margin-right: 2%;
+	}
+	#about-sidebar-menu-toggle .arrow-up-down {
+		background-image: url(<?php echo get_template_directory_uri(); ?>/images/arrow-up-down.png);
+		background-repeat: no-repeat;
+		background-size: 100% auto;
+		width: 14px;
+		height: 8px;
+		display: block;
+		position: absolute;
+		right: 15px;
+		top: 15px;
+	}
+	#about-sidebar-menu-toggle.active .arrow-up-down {
+		background-position: bottom center;
+	}
+	#about-sidebar-menu-toggle.inactive .arrow-up-down {
+		background-position: top center;
+	}
+	#about-sidebar-menu-items {		
+		margin-top: 2px;
+		margin-left: 2%;
+		margin-right: 2%;
+	}
+	#about-sidebar-menu-items ul li {
+		background-color: #f0ece5;
+		padding: 10px 15px;
+		font-family: cantarellregular;
+		cursor: pointer;
+	}
+	#about-sidebar-menu-items ul li a {
+		color: black;
+		text-decoration: none;
+		display: block;
+		width: 100%;
+	}
+	.no-padding {
+		padding: 2% 0 !important;
+	}
+	#footer-wrapper .amr-widget-area {
+		display: block !important;
+		margin-bottom: 15px;
+	}
+	.product-top-details .amr-widget-area {
+		display: block !important;
+		margin-bottom: 15px;
+		text-align: left;
+		width: 100%;
+	}
+}
+@media screen and (max-width: 600px) {
+    .wpsl-input{
+        display: inline !important;
+    }
+ }
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    #category-beauty {
+        height: 300px !important;
+        width: 29.9% !important;
+}
+    #category-wellness {
+        height: 300px !important;
+        width: 29.9% !important;
+}
+    #category-essentials {
+        height: 300px !important;
+        width: 29.9% !important;
+}
+    .category-button {
+        top: 10.6em !important;
+}
+}
+@media screen and (max-width: 991px) {
+    #home-categories {
+        margin: 0 auto !important;
+    }
+    #category-beauty {
+        height: 300px !important;
+        width: 100% !important;
+        margin: 1em auto !important;
+    }
+    #category-wellness {
+        height: 300px !important;
+        width: 100% !important;
+        margin: 1em auto !important;
+    }
+    #category-essentials {
+        height: 300px !important;
+        width: 100% !important;
+        margin: 1em auto !important;
+    }
+    .category-button {
+        top: 10.6em !important;
+}
+}
+@media screen and (max-width: 321px) {
+    #home-categories {
+        margin: 0 auto !important;
+    }
+    #category-beauty {
+        height: 200px !important;
+        width: 100% !important;
+        margin: 3em auto !important;
+    }
+    #category-wellness {
+        height: 200px !important;
+        width: 100% !important;
+        margin: 3em auto !important;
+    }
+    #category-essentials {
+        height: 200px !important;
+        width: 100% !important;
+        margin: 3em auto !important;
+    }
+    .category-button {
+        top: 7.6em !important;
+}
+    .category-images {
+        top: 4em !important;
+}
+    .category-images img {
+        width: 100px !important;
+        height: 100px !important;
+}
+    .category-images-last {
+        top: 4em !important;
+}
+    .category-images-last img {
+        width: 150px !important;
+        height: 100px !important;
+}
+}
+@media (max-width: 767px) {
+    .page-header { text-align: center; } 
+}
+@media (max-width: 479px) {
+    .caption-box { word-break: break-all; }
+    ul.thumbnails li { margin-bottom: 30px; }
+}

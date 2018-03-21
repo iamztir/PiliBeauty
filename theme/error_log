@@ -1,0 +1,21 @@
+[07-Aug-2015 04:48:53 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home1/glue/public_html/gluedemo.com/elemie/wp-content/themes/twentytwelve/index.php on line 17
+[07-Aug-2015 04:48:54 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home1/glue/public_html/gluedemo.com/elemie/wp-content/themes/twentytwelve/index.php on line 17
+[18-Mar-2017 14:56:15 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home1/elemie/public_html/wp-content/themes/elemie/404.php on line 10
+[23-Mar-2017 20:36:14 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home1/elemie/public_html/wp-content/themes/elemie/404.php on line 10
+[03-Apr-2017 13:12:37 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home1/elemie/public_html/wp-content/themes/elemie/index.php on line 17
+[05-Feb-2018 12:38:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home/pilibeauty/public_html/wp-content/themes/elemie/comments.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/pilibeauty/public_html/wp-content/themes/elemie/comments.php on line 20
+[05-Feb-2018 12:38:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home/pilibeauty/public_html/wp-content/themes/elemie/comments.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/pilibeauty/public_html/wp-content/themes/elemie/comments.php on line 20
+[08-Feb-2018 17:41:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pilibeauty/public_html/wp-content/themes/elemie/single.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/pilibeauty/public_html/wp-content/themes/elemie/single.php on line 10
+[08-Feb-2018 17:42:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/pilibeauty/public_html/wp-content/themes/elemie/single.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/pilibeauty/public_html/wp-content/themes/elemie/single.php on line 10
